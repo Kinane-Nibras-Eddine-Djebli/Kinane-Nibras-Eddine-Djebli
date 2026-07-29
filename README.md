@@ -1,22 +1,70 @@
-<h1 align="center">Hi 👋, I'm Kinane</h1>
-<h3 align="center">A passionate frontend dev</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinane-nibras-eddine-djebli&label=Profile%20views&color=0e75b6&style=flat" alt="kinane-nibras-eddine-djebli" /> </p>
+# Kinane Nibras Eddine Djebli
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinane-nibras-eddine-djebli" alt="kinane-nibras-eddine-djebli" /></a> </p>
+**Frontend Developer** · Crafting clean interfaces, one component at a time.
 
-- 🌱 I’m currently learning **js**
+[![Profile Views](https://komarev.com/ghpvc/?username=kinane-nibras-eddine-djebli&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/kinane-nibras-eddine-djebli)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinane-nibras-eddine-djebli&show_icons=true&locale=en&layout=compact" alt="kinane-nibras-eddine-djebli" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinane-nibras-eddine-djebli&show_icons=true&locale=en" alt="kinane-nibras-eddine-djebli" /></p>
+I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web experiences.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kinane-nibras-eddine-djebli&" alt="kinane-nibras-eddine-djebli" /></p>
+- 🌱 Currently leveling up my **JavaScript** skills
+- 🎯 Focused on crafting elegant UI with modern web technologies
+- 💬 Open to collaborations, freelance work, and new opportunities
 
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kinane-nibras-eddine-djebli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinane-nibras-eddine-djebli&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinane-nibras-eddine-djebli&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kinane-nibras-eddine-djebli&theme=tokyonight&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Good design is as little design as possible."*
+
+</div>
