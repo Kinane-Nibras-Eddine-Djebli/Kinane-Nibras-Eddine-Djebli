@@ -1,10 +1,10 @@
 <div align="center">
 
-# Kinane Nibras Eddine Djebli
+# Kinane Dev
 
 **Frontend Developer** · Crafting clean interfaces, one component at a time.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kinane-nibras-eddine-djebli&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/kinane-nibras-eddine-djebli)
+[![Profile Views](https://komarev.com/ghpvc/?username=kinane-nibras-eddine-djebli&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Coffee-sipper)
 
 </div>
 
@@ -53,11 +53,11 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive, a
 
 ---
 
-## 🏆 Trophies
+## 🏆 My Website
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kinane-nibras-eddine-djebli&theme=tokyonight&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://kinanedev.me)
 
 </div>
 
