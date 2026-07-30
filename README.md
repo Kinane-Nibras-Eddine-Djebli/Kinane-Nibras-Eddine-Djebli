@@ -57,7 +57,7 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive, a
 
 <div align="center">
 
-[![trophy](https://kinanedev.me)
+[Contact Me](https://kinanedev.me)
 
 </div>
 
