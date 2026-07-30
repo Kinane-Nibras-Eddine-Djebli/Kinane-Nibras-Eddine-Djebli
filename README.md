@@ -1,7 +1,6 @@
 <div align="center">
 
 # Kinane Dev
-
 **Frontend Developer** · Crafting clean interfaces, one component at a time.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kinane-nibras-eddine-djebli&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Coffee-sipper)
@@ -11,7 +10,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web experiences.
 
 - 🌱 Currently leveling up my **JavaScript** skills
@@ -21,7 +19,6 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive, a
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,26 +32,7 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive, a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kinane-nibras-eddine-djebli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinane-nibras-eddine-djebli&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinane-nibras-eddine-djebli&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 My Website
-
 <div align="center">
 
 [Contact Me](https://kinanedev.me)
