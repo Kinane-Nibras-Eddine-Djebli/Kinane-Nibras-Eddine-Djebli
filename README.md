@@ -1,6 +1,9 @@
 <div align="center">
 
 # Kinane Dev
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Engineering+Student;Building+Modern+Web+Experiences;Always+Learning+Something+New)](https://git.io/typing-svg)
+
 **Frontend Developer** · Crafting clean interfaces, one component at a time.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kinane-nibras-eddine-djebli&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Coffee-sipper)
