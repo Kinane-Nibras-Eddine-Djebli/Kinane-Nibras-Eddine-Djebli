@@ -15,9 +15,9 @@
 ## 👨‍💻 About Me
 I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly web experiences.
 
-- 🌱 Currently leveling up my **JavaScript** skills
-- 🎯 Focused on crafting elegant UI with modern web technologies
-- 💬 Open to collaborations, freelance work, and new opportunities
+-  Currently leveling up my **JavaScript** skills
+-  Focused on crafting elegant UI with modern web technologies
+-  Open to collaborations, freelance work, and new opportunities
 
 ---
 
